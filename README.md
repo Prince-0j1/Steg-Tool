@@ -9,7 +9,7 @@
 
 **Hide secrets in plain sight. All in your browser.**
 
-[Live Demo](#) • [Report Bug](https://github.com/yourusername/stegapp/issues) • [Request Feature](https://github.com/yourusername/stegapp/issues)
+[Live Demo](https://yourusername.github.io/stegapp) • [Report Bug](https://github.com/yourusername/stegapp/issues) • [Request Feature](https://github.com/yourusername/stegapp/issues)
 
 </div>
 
@@ -171,7 +171,7 @@ live-server
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourusername/stegapp/blob/main/LICENSE) file for details.
 
 ---
 
@@ -207,11 +207,21 @@ Made with ❤️ and JavaScript
 <tr>
 <td width="50%">
 <h3 align="center">Encoding Interface</h3>
-<img src="https://via.placeholder.com/600x400/2d3748/ffffff?text=Encoding+Interface" alt="Encoding Interface">
+<img src="https://raw.githubusercontent.com/yourusername/stegapp/main/screenshots/encode.png" alt="Encoding Interface">
 </td>
 <td width="50%">
 <h3 align="center">Decoding Interface</h3>
-<img src="https://via.placeholder.com/600x400/2d3748/ffffff?text=Decoding+Interface" alt="Decoding Interface">
+<img src="https://raw.githubusercontent.com/yourusername/stegapp/main/screenshots/decode.png" alt="Decoding Interface">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">File Selection</h3>
+<img src="https://raw.githubusercontent.com/yourusername/stegapp/main/screenshots/file-select.png" alt="File Selection">
+</td>
+<td width="50%">
+<h3 align="center">Extracted Message</h3>
+<img src="https://raw.githubusercontent.com/yourusername/stegapp/main/screenshots/extracted.png" alt="Extracted Message">
 </td>
 </tr>
 </table>
@@ -237,6 +247,8 @@ StegApp processes all data locally in your browser. No information is ever trans
 - [Steganography 101](https://en.wikipedia.org/wiki/Steganography)
 - [Web Crypto API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)
 - [LSB Steganography Explained](https://www.geeksforgeeks.org/lsb-based-image-steganography/)
+- [WAV Audio Format](https://en.wikipedia.org/wiki/WAV)
+- [Zero-Width Characters](https://en.wikipedia.org/wiki/Zero-width_character)
 
 ---
 
